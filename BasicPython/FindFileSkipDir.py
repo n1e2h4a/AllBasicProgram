@@ -1,0 +1,2 @@
+import os
+print(([ file for file in os.listdir("/home/bridgelabz/Desktop/AllBasicProgram/logicalPrograms")if os.path.isfile(os.path.join("/home/bridgelabz/Desktop/AllBasicProgram/logicalPrograms",file))]))
