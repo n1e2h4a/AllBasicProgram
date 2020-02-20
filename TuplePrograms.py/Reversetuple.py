@@ -1,0 +1,8 @@
+Name=("pythonisveryeasy")
+print(Name)
+newname=reversed(Name)
+print(tuple(newname))
+Rank=(7,9,3,2,7,8)
+print(Rank)
+newrank=reversed(Rank)
+print(tuple(newrank))
