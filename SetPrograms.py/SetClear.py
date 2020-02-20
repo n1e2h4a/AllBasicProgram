@@ -1,0 +1,5 @@
+color = set(["green", "blue"])
+color2=color.copy()
+print(color2)
+color2.clear()
+print(color2)
