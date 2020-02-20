@@ -1,0 +1,5 @@
+gameset=set()
+gameset.add("ludo")
+print(gameset)
+gameset.update(["carrom", "volleyball", "cricket"])
+print(gameset)
