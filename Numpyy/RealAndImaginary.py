@@ -1,0 +1,11 @@
+import numpy as np
+a= np.sqrt([1+0j])
+b=np.sqrt(0+1j)
+print("original array:x ",a)
+print("original array:y ",b)
+print("Real part of the array:--")
+print(a.real)
+print(b.real)
+print("imaginary part of array:-")
+print(a.imag)
+print(b.imag)
